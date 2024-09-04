@@ -1,0 +1,1 @@
+test_redirect < test_redirect_in.txt > test_redirect_out.txt
